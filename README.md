@@ -12,7 +12,7 @@ Alguns exemplos de maus cheiros no código:
 + Expressões booleanas negativas
 + Comentários excessivos
 
-Para visualizar melhor o que realizei neste código, basta acessar o RelatorioTDD.pdf
+Para visualizar melhor o que realizei neste código, basta acessar o Relatório TDD.pdf
 
 > Autor: Thalys Henrique 
 
